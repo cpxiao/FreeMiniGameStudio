@@ -1,24 +1,24 @@
-##Puzzle 2048
+# Puzzle 2048
 
-###版本日志
+## 版本日志
 
 - 20180402上架gp遭拒，违反了元数据政策 
 - 20180403删除2048、网址、email等信息，重新发布。
 
 
 
-###关键字
+## 关键字
 
 
 
-###简短说明
+## 简短说明
 
 Puzzle 2248 is a super puzzle digital connection game!
 Puzzle 2248是一款超级益智的数字连线游戏!
 
 
 
-###完整说明
+## 完整说明
 
 Puzzle 2248 is a super puzzle digital connection game!
 
